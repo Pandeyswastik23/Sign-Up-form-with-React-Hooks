@@ -16,13 +16,3 @@ label{
     color: gray;
 }
 
-span{
-    font-size: 12px;
-    padding: 3px;
-    color: red;
-    display: none;
-}
-
-input:invalid ~ span{
-    display: block;
-}
